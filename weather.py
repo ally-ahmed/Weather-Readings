@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 file_path = 'weather.dat'
 
